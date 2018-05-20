@@ -17,7 +17,7 @@ title: Maxwell Miles
 email: thegreatestknight@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   Life of An Autodidact: Principles for a happy and successfull life through unconventional unorthodox methods
-baseurl: "maxwellmiles" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
@@ -27,6 +27,7 @@ markdown: kramdown
 remote_theme: massively_jekyll_theme
 plugins:
   - jekyll-feed
+
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
