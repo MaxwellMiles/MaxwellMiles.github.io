@@ -30,6 +30,7 @@ permalink: /projects/
 	<li><a href="#" class="button fit">Awakening</a></li>
 </ul>
 
+<!--- 
 <div class="box alt">
 	<div class="row 100% uniform">
 		<div class="4u">
@@ -50,5 +51,5 @@ permalink: /projects/
 	</div>
 </div>
 
-<!--- --->
+--->
 
