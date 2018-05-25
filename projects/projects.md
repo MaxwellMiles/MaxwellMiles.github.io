@@ -39,7 +39,7 @@ permalink: /projects/
 		</div>
 		<div class="4u">
 			<span class="image fit">
-				<img src="/images/Exercise_link.jpg" alt="Fitness Goals">
+				<img src="/images/exercise_link.jpg" alt="Fitness Goals">
 			</span>
 		</div>
 		<div class="4u">
