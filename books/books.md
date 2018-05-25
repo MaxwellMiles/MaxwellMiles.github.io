@@ -9,8 +9,8 @@ permalink: /books/
 <h2>Book List</h2>
 
 <ol>
-	<li>GTD by David Allen</li>
-	<li>Like Switch</li>
+	<li><a href="/books/gtd">GTD by David Allen</a></li>
+	<li><a href="/books/gtd">Like Switch</a></li>
 </ol>
 
 
