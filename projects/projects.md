@@ -12,14 +12,14 @@ permalink: /projects/
 </span>
 
 <h2>Major Project</h2>
-<h2 style="text-align: center;"><a href="#" >Programming</a></h2>
+<h2 style="text-align: center;"><a href="/programming" >Programming</a></h2>
 
 
 <h2>Academic Pursuits</h2>
 <ul class="actions fit">
 	<li><a href="/physics" class="button fit">Physics</a></li>
-	<li><a href="#" class="button special fit">Mathematics</a></li>
-	<li><a href="/physics" class="button fit">Computer Science</a></li>
+	<li><a href="/maths" class="button special fit">Mathematics</a></li>
+	<li><a href="/compsc" class="button fit">Computer Science</a></li>
 </ul>
 
 <!-- Meta Projects-->
@@ -39,7 +39,7 @@ permalink: /projects/
 		</div>
 		<div class="4u">
 			<span class="image fit">
-				<img src="/images/Exercise_link.jpg" alt="One handed handstand">
+				<img src="/images/Exercise_link.jpg" alt="Fitness Goals">
 			</span>
 		</div>
 		<div class="4u">
